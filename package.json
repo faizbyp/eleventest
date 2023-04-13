@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx @11ty/eleventy --serve",
-    "sass": "sass --watch src/css/main.scss:src/css/main.css"
+    "sass": "sass --watch src/css/main.scss:src/css/main.css",
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "",
