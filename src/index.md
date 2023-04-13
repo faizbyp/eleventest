@@ -5,7 +5,9 @@ layout: "base.njk"
 
 # Hello!
 
-Welcome to Eleventest
+Welcome to Eleventest.
+
+This is my place to learn about static site generator with [Eleventy](https://www.11ty.dev/)
 
 ### My Blog Posts
 
